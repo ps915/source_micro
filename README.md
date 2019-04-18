@@ -10,7 +10,7 @@ The SOURCE MICRO project is a collaborative FPV frame project initiated by BARD.
 
 The hope is for this frame to enable broad access to FPV thanks to a low price point, great documentation and wide availability of compatible parts and accessories, without violating other people’s intellectual property.
 
-<img src="https://github.com/ps915/source_two/blob/master/photos/S2_v0.1_ghost002.png" width="800">
+<img src="https://github.com/ps915/source_micro/blob/master/photos/source_micro_fpv_frame_v0.1_02.JPG" width="800">
 
 ## Frame specifications
 * Wheelbase : 125 mm
