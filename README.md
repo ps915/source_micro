@@ -13,7 +13,7 @@ The hope is for this frame to enable broad access to FPV thanks to a low price p
 <img src="https://github.com/ps915/source_micro/blob/master/photos/source_micro_fpv_frame_v0.1_01.JPG" width="800">
 
 ## Frame specifications
-* Wheelbase : 125 mm
+* Wheelbase : 120 mm
 * Top plate: 2.5 mm
 * Bottom plate: 2.5 mm
 * Standoff height: 20 mm
